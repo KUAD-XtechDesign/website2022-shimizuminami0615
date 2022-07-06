@@ -196,8 +196,8 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 }
 
 .contents {
-  max-width: 1000px;
-  min-height: 600px;
+  max-width: 1600px;
+  min-height: 700px;
   padding: 20px;
   margin: auto;
 }
@@ -405,3 +405,4 @@ profileページ
 .mb_m {
   margin-bottom: 20px;
 }
+
