@@ -6,6 +6,8 @@ $(function(){//おまじない
     autoplay: true,//自動スライド
     autoplaySpeed: 3000,//3000ミリ秒 == 3秒
     dots:true,// ドット表示
+    
+    
   });
   
 });//おまじない
