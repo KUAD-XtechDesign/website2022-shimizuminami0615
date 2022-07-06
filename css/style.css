@@ -22,6 +22,9 @@ body {
   font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
   color: #e30d0d;
   letter-spacing: 0.05em;
+  span{
+    color: 00acee}
+  
 }
 
 a {
@@ -102,6 +105,7 @@ header .inner {
   display: flex;
   font-size: 26px;
   position: static;
+ 
 }
 
 
@@ -110,6 +114,10 @@ header .inner {
   padding: 0px 13px;
   line-height: 1;
   position: relative;
+  color: rgb(0, 176, 235);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  
 }
 
 #global_menu li {
