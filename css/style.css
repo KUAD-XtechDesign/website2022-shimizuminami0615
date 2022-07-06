@@ -12,7 +12,7 @@ html,
 body {
   height: 100%;
   font-feature-settings: "palt";
-  background-color: rgb(27, 56, 85);
+  background-color: rgb(18, 59, 85);
   position: relative;
 }
 
@@ -203,7 +203,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
-  
+
   /* 上下左右中央テクニック https://ics.media/entry/17522/ */
   display: flex;
   align-items: center;
