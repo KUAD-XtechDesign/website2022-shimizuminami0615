@@ -12,7 +12,7 @@ html,
 body {
   height: 100%;
   font-feature-settings: "palt";
-  background-color: rgb(0, 48, 78);
+  background-color: rgb(255, 255, 255);
   position: relative;
 }
 
