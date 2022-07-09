@@ -90,7 +90,7 @@ header .inner {
   display: flex;
   justify-content: space-between;
   padding: 15px 60px;
-  box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.35);
+  box-shadow: 0px 0px 5px rgba(1, 1, 1, 0.35);
   border-radius: 4px;
   margin: 20px;
 }
@@ -230,7 +230,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 }
 
 .each_link .link_pic{
-  width: 200px;
+  width: 700px;
 }
 
 .each_link .link_txt{
