@@ -14,6 +14,7 @@ body {
   font-feature-settings: "palt";
   background-color: rgb(255, 255, 255);
   position: relative;
+  background-size: cover
 }
 
 body {
@@ -84,7 +85,7 @@ header a {
 }
 
 header .inner {
-  background-color: #fff;
+  background-color: rgb(104, 8, 8);
   position: relative;
   display: flex;
   justify-content: space-between;
@@ -114,7 +115,7 @@ header .inner {
   padding: 0px 13px;
   line-height: 1;
   position: relative;
-  color: rgb(0, 176, 235);
+  color: rgb(0, 0, 0);
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 900;
   
