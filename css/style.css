@@ -171,6 +171,7 @@ header .inner {
     display: block;
   }
 }
+@media all and (min-width: 1020px){main #slide{margin- bottom: 0;}}
 
 /*======================================================
 footer
