@@ -131,7 +131,7 @@ header .inner {
   position: absolute;
   width: 100%;
   height: 10px;
-  background-color: rgb(188, 113, 229);
+  background-color: rgb(198, 172, 212);
 }
 
 #menu_btn{
@@ -294,7 +294,8 @@ worksページ
 
 .thumb_list li a {
   display: block;
-  height: 120px;
+  
+  height: 280px;
   border: 1px solid #ccc;
   opacity: 1;
   overflow: hidden;/* はみ出た部分は隠す */
