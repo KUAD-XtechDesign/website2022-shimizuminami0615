@@ -177,7 +177,7 @@ header .inner {
 footer
 ======================================================*/
 footer {
-  background-color: #333;
+  background-color: rgb(185, 185, 185);
   color: #fff;
   text-align: center;
   padding: 20px;
