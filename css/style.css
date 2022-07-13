@@ -132,6 +132,11 @@ header .inner {
   width: 100%;
   height: 10px;
   background-color: rgb(220, 220, 220);
+  change {
+    cursor: url(original.cur), auto;
+  }
+    }
+    
 }
 
 #menu_btn{
