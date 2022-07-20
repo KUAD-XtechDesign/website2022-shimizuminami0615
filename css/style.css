@@ -205,6 +205,13 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   padding: 20px;
   margin: auto;
 }
+.works_contents {
+  max-width: 1200px;
+  min-height: 700px;
+  padding: 60px;
+  margin: auto;
+}
+
 
 /* =================================================
 トップページ
