@@ -201,7 +201,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 
 .contents {
   max-width: 1600px;
-  min-height: 700px;
+  min-height: 60px;
   padding: 20px;
   margin: auto;
 }
